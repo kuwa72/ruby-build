@@ -1,0 +1,1 @@
+install_git "mjit" "https://github.com/vnmakarov/ruby.git" "rtl_mjit_branch" ldflags_dirs autoconf standard_build standard_install_with_bundled_gems
